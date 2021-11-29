@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\bin\Debug\Kursach_Artak.exe.config
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\bin\Debug\Kursach_Artak.exe
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\bin\Debug\Kursach_Artak.pdb
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.Form1.resources
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.Properties.Resources.resources
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.exe
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.pdb
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.Form2.resources
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.Form3.resources
+C:\Users\student\source\repos\Kursach_Artak\Kursach_Artak\obj\Debug\Kursach_Artak.Form4.resources
